@@ -1,0 +1,39 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center" id="form">
+    <h2>Fun Javascript Exercise - Jomin John</h2>
+    <br />
+    <form id='alarm-video-request' action="#" onsubmit="return validate();">
+        <div id="labels">
+            <label for="input-message">Enter Message:</label>
+            <label for="input-alarm">Alarm ID:</label>
+            <label for="input-video">Video Server no:</label>
+            <label for="resultMessage">Result Message:</label>
+            <label id="exceptionMessageLabel" for="exceptionMessage">Exception Message:</label>
+        </div>
+        <div id="inputs">
+            <input type="text" id="input-message" list="alarm-video-message"  autofocus required placeholder="<Message Required>" style="text-align:center;" tabindex="1" size="60" />
+            <datalist id="alarm-video-message">
+                <option>The alarm id from video server number 7 is 10.</option>
+                <option>Alarm id 10 has been received from video server number 7.</option>
+                <option>The alarm id from video server number 10 is 25.</option>
+                <option>Alarm id 40 has been received from video server number 22.</option>
+            </datalist>
+            <input type="text" id="input-alarm" autofocus tabindex="2" disabled />
+            <input type="text" id="input-video" autofocus tabindex="3" disabled />
+            <input type="text" style="text-align:center;font-weight: bold" id="input-resultMessage" autofocus tabindex="4" disabled />
+            <input type="text" id="input-exceptionMessage" autofocus tabindex="5" disabled size="75" />
+        </div>
+
+        <div id="submit">
+            <input type="submit" id="button-submit" value="Extract">
+        </div>
+    </form>
+</div>
+
+
+    

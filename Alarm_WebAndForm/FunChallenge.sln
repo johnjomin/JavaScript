@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlarmVideo Web Application", "AlarmVideo Web Application\AlarmVideo Web Application.csproj", "{ED0F8908-AE1F-4378-B883-063B2BA686BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlarmVideo Windows Form Application", "AlarmVideo Windows Form Application\AlarmVideo Windows Form Application.csproj", "{1B164BEC-196F-40C9-B66A-F9E11BD35713}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database SQL - Practice with AlarmVideo Scenario", "Database SQL - Practice with AlarmVideo Scenario", "{6AE39CBB-C4E9-4F7F-A3DB-40319C44D41F}"
+	ProjectSection(SolutionItems) = preProject
+		1. Creation of Table.sql = 1. Creation of Table.sql
+		Simple SQL Insert.sql = Simple SQL Insert.sql
+		Simple SQL.sql = Simple SQL.sql
+		Simply SQL Update.sql = Simply SQL Update.sql
+		SQL with WHERE.sql = SQL with WHERE.sql
+		SQL with Wildcard and JOINS.sql = SQL with Wildcard and JOINS.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0F8908-AE1F-4378-B883-063B2BA686BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0F8908-AE1F-4378-B883-063B2BA686BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0F8908-AE1F-4378-B883-063B2BA686BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0F8908-AE1F-4378-B883-063B2BA686BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B164BEC-196F-40C9-B66A-F9E11BD35713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B164BEC-196F-40C9-B66A-F9E11BD35713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B164BEC-196F-40C9-B66A-F9E11BD35713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B164BEC-196F-40C9-B66A-F9E11BD35713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7EFCDDB-0437-453B-AFCD-A7C2A63AAFD8}
+	EndGlobalSection
+EndGlobal
