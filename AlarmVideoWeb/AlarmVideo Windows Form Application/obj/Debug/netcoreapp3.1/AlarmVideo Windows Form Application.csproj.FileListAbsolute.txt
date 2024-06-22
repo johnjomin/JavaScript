@@ -1,0 +1,15 @@
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\bin\Debug\netcoreapp3.1\AlarmVideo Windows Form Application.exe
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\bin\Debug\netcoreapp3.1\AlarmVideo Windows Form Application.deps.json
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\bin\Debug\netcoreapp3.1\AlarmVideo Windows Form Application.runtimeconfig.json
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\bin\Debug\netcoreapp3.1\AlarmVideo Windows Form Application.runtimeconfig.dev.json
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\bin\Debug\netcoreapp3.1\AlarmVideo Windows Form Application.dll
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\bin\Debug\netcoreapp3.1\AlarmVideo Windows Form Application.pdb
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\obj\Debug\netcoreapp3.1\AlarmVideo_Windows_Form_Application.Form1.resources
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\obj\Debug\netcoreapp3.1\AlarmVideo_Windows_Form_Application.Properties.Resources.resources
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\obj\Debug\netcoreapp3.1\AlarmVideo Windows Form Application.csproj.GenerateResource.cache
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\obj\Debug\netcoreapp3.1\AlarmVideo Windows Form Application.AssemblyInfoInputs.cache
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\obj\Debug\netcoreapp3.1\AlarmVideo Windows Form Application.AssemblyInfo.cs
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\obj\Debug\netcoreapp3.1\AlarmVideo Windows Form Application.csproj.CoreCompileInputs.cache
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\obj\Debug\netcoreapp3.1\AlarmVideo Windows Form Application.dll
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\obj\Debug\netcoreapp3.1\AlarmVideo Windows Form Application.pdb
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\AlarmVideo Windows Form Application\obj\Debug\netcoreapp3.1\AlarmVideo Windows Form Application.genruntimeconfig.cache

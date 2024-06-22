@@ -1,0 +1,1 @@
+﻿SELECT * FROM DeviceCamera WHERE DeviceID = '1'
