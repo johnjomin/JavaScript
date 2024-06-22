@@ -1,0 +1,9 @@
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\DeviceSQL Database\bin\Debug\DeviceSQL Database.dacpac
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\DeviceSQL Database\bin\Debug\DeviceSQL_Database.dll
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\DeviceSQL Database\bin\Debug\DeviceSQL_Database.pdb
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\DeviceSQL Database\obj\Debug\Model.xml
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\DeviceSQL Database\obj\Debug\refactor.xml
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\DeviceSQL Database\obj\Debug\postdeploy.sql
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\DeviceSQL Database\obj\Debug\predeploy.sql
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\DeviceSQL Database\obj\Debug\DeviceSQL_Database.dll
+C:\Users\Jomin\Documents\Projects\AlarmVideoWeb\DeviceSQL Database\obj\Debug\DeviceSQL_Database.pdb
