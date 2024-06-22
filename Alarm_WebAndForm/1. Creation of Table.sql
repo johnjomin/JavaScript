@@ -1,0 +1,13 @@
+﻿CREATE TABLE DeviceCamera
+(
+	CameraNumber INT PRIMARY KEY NOT NULL,
+	DeviceID INT REFERENCES Device(DeviceID),
+	Name VARCHAR(40)
+);
+
+CREATE TABLE Device
+(
+	DeviceID INT PRIMARY KEY NOT NULL,
+	IPAddress VARCHAR(30),
+	Name VARCHAR(30)
+);
